@@ -1,0 +1,2 @@
+# instal
+JUST AUTO INSTALLER
