@@ -1,4 +1,4 @@
-# instal
+# Auto Instal
 JUST AUTO INSTALLER
 
 
